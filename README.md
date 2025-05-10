@@ -13,7 +13,6 @@ I'm someone who's really passionate about technology, especially in the field of
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/azril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="azril" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azrilsugiarto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azrilsugiarto" height="30" width="40" /></a>
 <a href="https://instagram.com/azrilgtsatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azrilgtsatu" height="30" width="40" /></a>
 </p>
