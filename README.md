@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azril Sugiarto</h1>
-I'm someone who's really passionate about technology, especially in the field of software engineering. I'm currently 18 years old and have been developing software for about three years. Back in school, I graduated as the top student in the Software Engineering program. I was also pretty active—working on projects for my teachers and helping friends who were struggling with programming. I once interned as a Software Engineer at a tech company in Cirebon. Right now, I'm working as a Full Stack Developer at PT Asia Tritunggal Jaya.
+I'm someone who's really passionate about technology, especially in the field of software engineering. I'm currently 18 years old and have been developing software for about 4 years. Back in school, I graduated as the top student in the Software Engineering program. I was also pretty active—working on projects for my teachers and helping friends who were struggling with programming. I once interned as a Software Engineer at a tech company in Cirebon. Right now, I'm working as a Full Stack Developer at PT Asia Tritunggal Jaya.
 
 - 🔭 I’m currently working on **PT Asia Tritunggal Jaya**
 
