@@ -2,13 +2,13 @@
 
 > Backend Engineer | System Optimization | Scalable Solutions
 
----
+##
 
 ## About
 
 Backend-focused Software Engineer with 5 years of proven expertise in building optimized systems and robust APIs. Specializes in delivering measurable performance improvements and production-ready infrastructure.
 
----
+##
 
 ## Highlights
 
@@ -17,7 +17,7 @@ Backend-focused Software Engineer with 5 years of proven expertise in building o
 **Production infrastructure** setup using Docker & Nginx  
 **Full-stack development** across multiple client projects
 
----
+##
 
 ## Tech Stack
 
@@ -25,7 +25,7 @@ Backend-focused Software Engineer with 5 years of proven expertise in building o
 **Database:** PostgreSQL · MySQL · MongoDB · Redis  
 **DevOps:** Docker · Nginx · Git
 
----
+##
 
 ## Experience
 
@@ -38,10 +38,10 @@ Delivered multiple client projects focused on data efficiency and user experienc
 **PT Fath Technology Solution** — Software Engineer Intern *(Dec 2023 – Apr 2024)*  
 Full-stack development with NestJS & ReactJS using semi-monolithic architecture.
 
----
+##
 
 ## Contact
 
 azrilsugiarto06@gmail.com · +62 8953 8320 8655 · Cirebon, Indonesia
 
----
+##
