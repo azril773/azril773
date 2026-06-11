@@ -2,10 +2,6 @@
 
 Backend Software Engineer | System Optimization Enthusiast
 
-```
-NestJS • Go • Node.js • PostgreSQL • Docker
-```
-
 ---
 
 ## 👋 About Me
@@ -74,12 +70,6 @@ Graduated among top students, actively involved in academic projects and peer me
 - **Phone:** +62 8953 8320 8655
 - **Location:** Cirebon, Indonesia
 - **LinkedIn:** [LinkedIn](https://linkedin.com/azrilsugiarto)
-
----
-
-## 🚀 Featured Projects
-
-(Add your best projects here with links and descriptions)
 
 ---
 
