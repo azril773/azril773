@@ -37,4 +37,4 @@ Full-stack development with NestJS & ReactJS using semi-monolithic architecture.
 
 ## Contact
 
-azrilsugiarto06@gmail.com · +62 8953 8320 8655 · Cirebon, Indonesia · [Azril Sugiarto](https://linkedin.com/azrilsugiarto)
+azrilsugiarto06@gmail.com · +62 8953 8320 8655 · Cirebon, Indonesia · [Azril Sugiarto](https://www.linkedin.com/in/azrilsugiarto/)
